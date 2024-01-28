@@ -4,3 +4,6 @@
 .pp1{
     width: 100%;
 }
+.bb{
+    overflow-x: hidden;
+}

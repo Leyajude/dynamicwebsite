@@ -45,6 +45,7 @@ background: var(--White-99, #FCFCFD);
 }
 .row17{
     background-color: white;
+    width:100%;
 }
 .hh{
     background-color: white;
@@ -58,4 +59,7 @@ background: var(--White-99, #FCFCFD);
     background-color: #59595A;
     width: 100%;
 
+}
+.bb{
+    overflow-x: hidden;
 }
