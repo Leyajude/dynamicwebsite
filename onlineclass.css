@@ -1,5 +1,5 @@
 .pic1{
-    width:50%;
+    width:100%;
 }
 .cc{
     text-align: center;
@@ -22,7 +22,7 @@ background: var(--White-99, #FCFCFD);
     background-color: #F1F1F3;
 }
 .phto{
-  width: 125%;
+  width: 100%;
 }
 .phto2{
     width: 100%;
@@ -42,5 +42,6 @@ background: var(--White-99, #FCFCFD);
 .row3{
     /* color: #3c3c3c; */
     background-color: #59595A;
+    width: 100%;
 
 }
