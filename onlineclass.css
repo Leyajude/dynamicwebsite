@@ -2,17 +2,30 @@
     width:100%;
 }
 .cc{
-    text-align: center;
+    /* text-align: center; */
+    width: 100%;
 }
 .row1{
     background: var(--White-97, #F7F7F8);
+    width: 100%;
 }
 .a1{
     background: var(--White-97, #eaeaee);
+    width: 100%;
 
+}
+.gg{
+    width:100%;
+}
+.row55{
+    width:100%;
+}
+.ff{
+    width:100%;
 }
 .row2{
     /* background-color: #F7F7F8; */
+    width: 100%;
     text-align: center;
     border-radius: 12px;
 border: 1px solid var(--White-95, #F1F1F3);
@@ -38,6 +51,7 @@ background: var(--White-99, #FCFCFD);
 }
 .ct{
     text-align: center;
+    width: 100%;
 }
 .row3{
     /* color: #3c3c3c; */
